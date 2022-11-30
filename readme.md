@@ -1,6 +1,8 @@
 Urho3D-Blender
 ==============
 
+Видеоинструкция: https://www.youtube.com/watch?v=O0h12-2Hnq0
+
 [Blender](http://www.blender.org) to [Urho3D](https://urho3d.github.io) mesh exporter.
 
 Guide [here](https://github.com/reattiva/Urho3D-Blender/blob/master/guide.txt).

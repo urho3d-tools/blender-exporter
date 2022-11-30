@@ -5,6 +5,8 @@ Urho3D-Blender
 
 Для создания своего материала нужно клонировать один из библиотечных материалов (ноды этих материалов полностью повторяют шейдеры Urho3D).
 
+---
+
 [Blender](http://www.blender.org) to [Urho3D](https://urho3d.github.io) mesh exporter.
 
 Guide [here](https://github.com/reattiva/Urho3D-Blender/blob/master/guide.txt).
